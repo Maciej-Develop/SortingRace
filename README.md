@@ -13,7 +13,7 @@ Users have the ability to select the size of the array they wish to sort, specif
 1. Move to the root of the project :
 
 ```
-cd SortingRace
+cd maven_SortingRace
 ```
 
 2. Compile the project :
