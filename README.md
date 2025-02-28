@@ -2,7 +2,7 @@
 
 The project serves as a tool to visualize and compare the performances of the Bubble Sort and the Merge Sort.
 
-The architecture used is MVC.
+The used architecture is MVC.
 
 Users have the ability to select the size of the array they wish to sort, specify the number of threads to be utilized, and choose the algorithm to be employed.
 
