@@ -1,10 +1,10 @@
 # Sorting Race
 
-The project serves as a tool to visualize and compare the performances of the Bubble Sort and the Merge Sort.
+This project provides a tool to visualize and compare the performance of the Bubble Sort and Merge Sort algorithms. 
 
-The used architecture is MVC.
+The application follows the MVC architecture. 
 
-Users have the ability to select the size of the array they wish to sort, specify the number of threads to be utilized, and choose the algorithm to be employed.
+Users can select the array size, specify the number of threads to use, and choose the sorting algorithm.
 
 ## Usage
 
