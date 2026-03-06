@@ -6,6 +6,8 @@ The application follows the MVC architecture.
 
 Users can select the array size, specify the number of threads to use, and choose the sorting algorithm.
 
+![Interface](/images/interface.png)
+
 ## Usage
 
 **Please make sure you have maven installed on your machine**
